@@ -8,7 +8,7 @@ interface TranscriptHeaderProps {
 
 export default function TranscriptHeader({ metadata }: TranscriptHeaderProps) {
   return (
-    <div className="bg-gradient-to-r from-primary to-primary-700 text-white shadow-lg">
+    <div className="bg-gradient-to-r from-[#003378] via-[#002959] to-[#001F3B] text-white shadow-lg">
       <div className="container mx-auto px-6 py-6">
         <h1 className="text-3xl font-bold mb-4">Earnings Call Transcript Analysis</h1>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">

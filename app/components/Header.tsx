@@ -8,7 +8,7 @@ interface HeaderProps {
 
 export default function Header({ data }: HeaderProps) {
   return (
-    <header className="bg-gradient-to-r from-primary to-primary-700 text-white shadow-lg">
+    <header className="bg-gradient-to-r from-[#003378] via-[#002959] to-[#001F3B] text-white shadow-lg">
       <div className="container mx-auto px-6 py-6">
         <div className="flex items-center justify-between flex-wrap gap-4">
           <div>

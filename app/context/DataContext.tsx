@@ -16,7 +16,7 @@ interface DataContextType {
 const DataContext = createContext<DataContextType | undefined>(undefined);
 
 export function DataProvider({ children }: { children: ReactNode }) {
-  const [ticker, setTicker] = useState('PNR');
+  const [ticker, setTicker] = useState('');
   const [quarter, setQuarter] = useState('Q2');
   const [year, setYear] = useState('2025');
 
@@ -33,7 +33,7 @@ export function DataProvider({ children }: { children: ReactNode }) {
 
   // Save to localStorage when changed
   useEffect(() => {
-    localStorage.setItem('selectedTicker', ticker);
+    if (ticker) localStorage.setItem('selectedTicker', ticker);
     localStorage.setItem('selectedQuarter', quarter);
     localStorage.setItem('selectedYear', year);
   }, [ticker, quarter, year]);
