@@ -1,0 +1,1312 @@
+{
+  "metadata": {
+    "company_symbol": "PNR",
+    "quarter": "2025Q3",
+    "generated_at": "2025-10-22T15:43:17.719402",
+    "total_segments": 48,
+    "total_words": 2864,
+    "speakers": [
+      "Julian Mitchell",
+      "Mike Halloran",
+      "Nigel Coe",
+      "Andrew Buscaglia",
+      "Andrew Crow",
+      "Jeff Hammond",
+      "Scott Graham",
+      "John Stauch",
+      "Shelly Hubbard",
+      "Steve Tusa",
+      "Joe Giordano",
+      "Operator",
+      "Bob Fishman",
+      "Brian Blair",
+      "Deane Dray",
+      "Andy Kaplowitz",
+      "Damian Karas"
+    ],
+    "unique_terms_count": 7,
+    "unique_issues_count": 3
+  },
+  "terms_index": [
+    "GAAP",
+    "cross-selling",
+    "digital transformation",
+    "growth trajectory",
+    "industrial market",
+    "revenue",
+    "seasonality"
+  ],
+  "negotiable_issues_index": [
+    "Future Pricing Models",
+    "Inventory Solutions: Kanban, Consignment & VMI",
+    "Tariffs"
+  ],
+  "terms_full": [
+    {
+      "term_id": "cb58d0cd-1c19-4c2b-a41b-58b1702ed109",
+      "term": "GAAP",
+      "score": 0.5230000019073486
+    },
+    {
+      "term_id": "c781597c-b66d-4f7b-b855-1fdc1701e838",
+      "term": "revenue",
+      "score": 0.503000020980835
+    },
+    {
+      "term_id": "c4607967-6745-4d82-af30-d422ce0f0353",
+      "term": "digital transformation",
+      "score": 0.527999997138977
+    },
+    {
+      "term_id": "be43840e-ab06-40a3-87fe-c4c8734b790d",
+      "term": "industrial market",
+      "score": 0.5070000290870667
+    },
+    {
+      "term_id": "1799e5ef-92a4-4244-bf17-c4f18689c997",
+      "term": "seasonality",
+      "score": 0.5019999742507935
+    },
+    {
+      "term_id": "c781597c-b66d-4f7b-b855-1fdc1701e838",
+      "term": "revenue",
+      "score": 0.5130000114440918
+    },
+    {
+      "term_id": "171c92af-1aa8-4d33-923a-609ebcc1302d",
+      "term": "growth trajectory",
+      "score": 0.5260000228881836
+    },
+    {
+      "term_id": "b976811a-63d9-4a0f-af00-ce5e7387ef40",
+      "term": "cross-selling",
+      "score": 0.5059999823570251
+    }
+  ],
+  "negotiable_issues_full": [
+    {
+      "negotiable_issue_number": "73",
+      "negotiable_issue_text": "Tariffs",
+      "score": 0.6779999732971191
+    },
+    {
+      "negotiable_issue_number": "83",
+      "negotiable_issue_text": "Future Pricing Models",
+      "score": 0.5120000243186951
+    },
+    {
+      "negotiable_issue_number": "73",
+      "negotiable_issue_text": "Tariffs",
+      "score": 0.5659999847412109
+    },
+    {
+      "negotiable_issue_number": "61",
+      "negotiable_issue_text": "Inventory Solutions: Kanban, Consignment & VMI",
+      "score": 0.5360000133514404
+    },
+    {
+      "negotiable_issue_number": "73",
+      "negotiable_issue_text": "Tariffs",
+      "score": 0.6370000243186951
+    }
+  ],
+  "segments": [
+    {
+      "segment_id": 1,
+      "speaker": "Operator",
+      "text": "Welcome to the Pentair third quarter 2025 Earnings Conference Call. All participants will be in a listen-only mode. After today's presentation, there will be an opportunity to ask questions. To withdraw your questions, you may press star and two. Please also note today's event is being recorded. At this time, I would like to turn the floor over to Shelly Hubbard, Vice President Investor Relations. Please go ahead.",
+      "chunks": [
+        "PNR_2025Q3_chunk_001"
+      ],
+      "topics": [
+        "Introduction to Q3 Earnings Call"
+      ],
+      "word_count": 68,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 2,
+      "speaker": "Shelly Hubbard",
+      "text": "Thank you, operator, and welcome to Pentair's third quarter 2025 Earnings Conference Call. On the call with me are John Stauch, our President and Chief Executive Officer, and Bob Fishman, our Chief Financial Officer. On today's call, we will provide details on our third quarter performance as outlined in the morning's press release. On the Pentair Investor Relations website, you can find our earnings release and slide deck, which is intended to supplement our prepared remarks during today's call and provide a reconciliation of differences between GAAP and non-GAAP financial measures that we will reference. Before we begin, let me remind you that during our presentation today, we will make forward-looking statements which are predictions, projections, or other statements about future events. Listeners are cautioned that these statements are subject to certain risks and uncertainties, many of which are difficult to predict and generally beyond the control of Pentair. These risks and uncertainties can cause actual results to differ materially from our current expectations.",
+      "chunks": [
+        "PNR_2025Q3_chunk_002",
+        "PNR_2025Q3_chunk_003"
+      ],
+      "topics": [
+        "Q3 Performance Overview",
+        "Forward-Looking Statements Warning"
+      ],
+      "word_count": 164,
+      "key_metrics": [],
+      "matched_terms": [
+        {
+          "term_id": "cb58d0cd-1c19-4c2b-a41b-58b1702ed109",
+          "term": "GAAP",
+          "score": 0.5230000019073486
+        }
+      ],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "market conditions",
+        "risk management"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 3,
+      "speaker": "John Stauch",
+      "text": "In Q3, we delivered sales growth and a record third quarter across adjusted operating income, return on sales, and adjusted EPS. Sales increased 3% driven by our pool and flow segments. Adjusted operating income increased 10%. ROS expanded 160 basis points to 25.7%, and adjusted EPS rose 14% to $1.24. In September, we acquired HydroStop, a leading specialty valve solutions provider for water infrastructure, for approximately $292 million in cash, or $242 million net of the anticipated $50 million of tax benefits. This acquisition enhances our commercial flow business with a strong financial profile and strategic fit. Lastly, we are increasing our full-year guidance driven by a strong third quarter and continued confidence in our execution. We now expect sales growth of approximately 2% and adjusted EPS of approximately $4.85 to $4.90, up 12 to 13% from 2024. Over the last three years, our teams have successfully implemented our transformation initiative while continuing to drive strong execution leading to robust margin expansion. As we enter 2026, we feel confident that we've developed a flywheel that we expect will continue to drive efficiencies, opportunities, and profitability. We have delivered approximately $56 million in transformation savings year to date and are on track to reach approximately $80 million in 2025. I want to remind you that this performance is net of strategic growth investments and is in addition to the $174 million of net performance we drove in 2023 and 2024 combined. We delivered another quarter of sales growth and double-digit earnings growth due to strong execution. We increased our full-year 2025 guidance driven by a strong Q3 and continued confidence in our strategy. Before I hand the call over to Bob, I want to acknowledge that we announced this morning that Bob will be leaving Pentair effective 03/01/2026. And embarrass him a little by complimenting him on having been an outstanding partner to me and Pentair.",
+      "chunks": [
+        "PNR_2025Q3_chunk_004",
+        "PNR_2025Q3_chunk_005",
+        "PNR_2025Q3_chunk_006",
+        "PNR_2025Q3_chunk_007",
+        "PNR_2025Q3_chunk_008",
+        "PNR_2025Q3_chunk_009",
+        "PNR_2025Q3_chunk_010"
+      ],
+      "topics": [
+        "Bob Fishman's Departure Announcement",
+        "Q3 Financial Highlights",
+        "Strategic Overview",
+        "Transformation Savings Update",
+        "Full-Year Guidance Update",
+        "Q3 Sales Growth and Earnings Growth",
+        "Acquisition of HydroStop"
+      ],
+      "word_count": 315,
+      "key_metrics": [
+        "Acquisition cost $292 million",
+        "Adjusted EPS $4.85 to $4.90",
+        "Target $80 million for 2025",
+        "Adjusted operating income increase 10%",
+        "ROS 25.7%",
+        "Sales increase 3%",
+        "Sales growth approximately 2%",
+        "Adjusted EPS $1.24",
+        "Net cost $242 million after tax benefits",
+        "Transformation savings $56 million"
+      ],
+      "matched_terms": [
+        {
+          "term_id": "c781597c-b66d-4f7b-b855-1fdc1701e838",
+          "term": "revenue",
+          "score": 0.503000020980835
+        },
+        {
+          "term_id": "c4607967-6745-4d82-af30-d422ce0f0353",
+          "term": "digital transformation",
+          "score": 0.527999997138977
+        }
+      ],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "margin expansion",
+        "market expansion",
+        "operational efficiency",
+        "market conditions",
+        "innovation",
+        "cost management"
+      ],
+      "supply_chain_concepts": [
+        "Supplier Acquisition",
+        "Market Expansion",
+        "Operational Efficiency",
+        "Margin Expansion"
+      ]
+    },
+    {
+      "segment_id": 4,
+      "speaker": "Bob Fishman",
+      "text": "Thank you, John, for the very kind words. I have thoroughly enjoyed my time at Pentair, our partnership, and working with all the great people in the company. We have very strong finance and IT teams at Pentair, which is evidenced by Nick's and Heather's promotion. As John mentioned, we delivered a third-quarter record in adjusted operating income, return on sales, and adjusted EPS. In Q3, we drove sales of $1.022 billion, up 3%, adjusted operating income of $263 million, up 10%, ROS of 25.7%, an increase of 160 basis points, and adjusted EPS of $1.24, up 14%. Core sales were up 3% year over year, driven by core growth of 6% in pool, 4% in flow, and water solutions approximately flat. Moving to adjusted operating income, transformation was the primary driver of 160 basis points of margin expansion in Q3. Flow sales were up 6% year over year to $394 million. Within flow, residential sales were up 3%, commercial sales increased 5%, marking the thirteenth consecutive quarter of year-over-year sales growth, and industrial sales rose 10%. Segment income grew 15% and return on sales expanded 200 basis points to 24% driven by strong sales growth and transformation. In Q3, water solution sales declined 6% to $273 million. Core water solution sales were flat. Commercial sales were down 6%, inclusive of a 9% negative impact from the sale of commercial services in Q2. Residential sales were down 6% year over year primarily due to portfolio exits. In Q3, pool sales increased 7% to $354 million driven by price, volume, and the Q4 2024 Gulfstream acquisition. Segment income was $116 million, up 3%. Return on sales decreased 120 basis points to approximately 33%. As a reminder, in Q3 2024, ROS reflected margin expansion of nearly 500 basis points resulting in a challenging compare. We generated record free cash flow of $719 million year to date, up 14% year over year. Our balance sheet remains strong and our return on invested capital increased to 16.7% from 15.2% a year ago. Our net debt leverage ratio is 1.3 times, down from 1.4 times a year ago. For the fourth quarter, we expect sales to be up approximately 3% to 4%. We expect flow sales to be up approximately high single digits, which includes our HydroStop acquisition of approximately $10 million of sales in the quarter at approximately 30% ROS. We're also introducing adjusted EPS guidance for the fourth quarter of approximately $1.11 to $1.16, up roughly 3% to 7%. We continue to execute well and are offsetting the impact of tariffs through increased prices and other mitigation strategies. Our total 2025 tariff impact of approximately $75 million remains consistent with our outlook in Q2, but tariff uncertainty continues.",
+      "chunks": [
+        "PNR_2025Q3_chunk_011",
+        "PNR_2025Q3_chunk_012",
+        "PNR_2025Q3_chunk_013",
+        "PNR_2025Q3_chunk_014",
+        "PNR_2025Q3_chunk_015",
+        "PNR_2025Q3_chunk_016",
+        "PNR_2025Q3_chunk_017",
+        "PNR_2025Q3_chunk_018",
+        "PNR_2025Q3_chunk_019",
+        "PNR_2025Q3_chunk_020"
+      ],
+      "topics": [
+        "Free Cash Flow Generation",
+        "Q3 Financial Performance Overview",
+        "Core Sales Growth in Flow Segment",
+        "Q4 Adjusted EPS Guidance",
+        "Water Solutions Segment Performance",
+        "Bob Fishman's Personal Reflections",
+        "Flow Segment Sales Performance",
+        "Pool Segment Sales Performance",
+        "Tariff Impact Discussion",
+        "Q4 Sales Expectations"
+      ],
+      "word_count": 455,
+      "key_metrics": [
+        "Water solution sales $273 million",
+        "Sales decline 6%",
+        "Free cash flow $719 million",
+        "Sales increase 7%",
+        "Pool growth 6%",
+        "Adjusted operating income $263 million",
+        "HydroStop sales $10 million",
+        "Net debt leverage ratio 1.3 times",
+        "Flow sales high single digits",
+        "Tariff impact $75 million",
+        "Sales $1.022 billion",
+        "Residential sales up 3%",
+        "Adjusted EPS guidance $1.11 to $1.16",
+        "Pool sales $354 million",
+        "Segment income $116 million",
+        "Adjusted EPS $1.24",
+        "ROIC 16.7%",
+        "Flow growth 4%",
+        "ROS 25.7%",
+        "Core sales up 3%",
+        "Commercial sales up 5%",
+        "Q4 sales growth 3% to 4%",
+        "Flow sales $394 million",
+        "Industrial sales up 10%"
+      ],
+      "matched_terms": [],
+      "negotiable_issues": [
+        {
+          "negotiable_issue_number": "73",
+          "negotiable_issue_text": "Tariffs",
+          "score": 0.6779999732971191
+        }
+      ],
+      "business_themes": [
+        "revenue growth",
+        "margin expansion",
+        "market expansion",
+        "operational efficiency",
+        "market conditions",
+        "cost management",
+        "working capital management"
+      ],
+      "supply_chain_concepts": [
+        "Pricing Strategy",
+        "Revenue Growth",
+        "Cost Management",
+        "Margin Expansion"
+      ]
+    },
+    {
+      "segment_id": 5,
+      "speaker": "John Stauch",
+      "text": "In closing, I want to reiterate some key themes on slide 19. We delivered our fourteenth consecutive quarter of margin expansion and drove double-digit adjusted earnings growth as a result of solid execution and transformation. We increased our 2025 sales and adjusted EPS outlook and remain confident in our long-term strategy.",
+      "chunks": [
+        "PNR_2025Q3_chunk_021"
+      ],
+      "topics": [
+        "Closing Remarks"
+      ],
+      "word_count": 51,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "margin expansion",
+        "operational efficiency"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 6,
+      "speaker": "Bob Fishman",
+      "text": "I now would like to turn the call over to the operator for Q&A. After which John will have a few closing remarks.",
+      "chunks": [
+        "PNR_2025Q3_chunk_022"
+      ],
+      "topics": [
+        "Q&A Session Introduction"
+      ],
+      "word_count": 23,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 7,
+      "speaker": "Steve Tusa",
+      "text": "Hey, guys. Good morning. I think you addressed some of, like, the tough comp and pool on the margin, but I think the productivity was definitely weaker than we were expecting. Could you just talk about what the trend is and then maybe how you're feeling about that number for the full year for the full company?",
+      "chunks": [
+        "PNR_2025Q3_chunk_023"
+      ],
+      "topics": [
+        "Analyst Question on Productivity"
+      ],
+      "word_count": 57,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 8,
+      "speaker": "Bob Fishman",
+      "text": "So, you know, in terms of transformation as a whole for the company, still driving towards that $80 million commitment we made at the beginning of the year net of investment. So feel good about that. Also, optimistic that Pool will rebound in terms of ROS expansion in the fourth quarter and drive transformation savings.",
+      "chunks": [
+        "PNR_2025Q3_chunk_024"
+      ],
+      "topics": [
+        "Bob Fishman Response on Productivity"
+      ],
+      "word_count": 55,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "cost management",
+        "operational efficiency"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 9,
+      "speaker": "Steve Tusa",
+      "text": "And then secondarily, I guess it's good to see the volume picking up there. Is that kind of like signs of life of a little bit of a bounce in the kind of replacement of the age installed base, and then just talk about how you're measuring, you know, how you're kind of balancing that against price.",
+      "chunks": [
+        "PNR_2025Q3_chunk_025"
+      ],
+      "topics": [
+        "Analyst Follow-Up on Volume and Pricing"
+      ],
+      "word_count": 57,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "market expansion"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 10,
+      "speaker": "John Stauch",
+      "text": "Yeah. I would just say it felt like it was more predictable in Q3, Steve. And I think some of that is we're not seeing the levels that could find across the new pool build. And we're also not seeing some of the same challenges that we were seeing in the aftermarket side on when the price first went into place.",
+      "chunks": [
+        "PNR_2025Q3_chunk_026"
+      ],
+      "topics": [
+        "John Stauch Response on Volume and Pricing"
+      ],
+      "word_count": 61,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "market conditions",
+        "operational efficiency"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 11,
+      "speaker": "Andy Kaplowitz",
+      "text": "Good morning, everyone. Congrats, Bob. Thanks for all your help. So you lowered your twenty-five year-over-year cold water solutions growth, I think, just a little bit down low single digits instead of flat. As commercial growth continues to lag a bit for you, I know you, I think, Bob, you said it will go to low single-digit growth in Q4. And then any preliminary thoughts on '26? For the segment?",
+      "chunks": [
+        "PNR_2025Q3_chunk_027"
+      ],
+      "topics": [
+        "Analyst Question on Water Solutions Growth"
+      ],
+      "word_count": 70,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "market conditions"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 12,
+      "speaker": "Bob Fishman",
+      "text": "Yeah. You're right, Andy. It was the only full-year guide we tweaked down a little bit in terms of core water solution. You'll remember for Q3, we were saying commercial water solutions would be low to mid-single digits. That came in at low single digits.",
+      "chunks": [
+        "PNR_2025Q3_chunk_028"
+      ],
+      "topics": [
+        "Bob Fishman Response on Water Solutions"
+      ],
+      "word_count": 45,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "market conditions"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 13,
+      "speaker": "John Stauch",
+      "text": "Yeah. And, Andy, I would just add to that. I think North America, we continue to do extremely well against the market backdrop, but we do have international sales. We've seen softness in 2025 for some of the sales into China.",
+      "chunks": [
+        "PNR_2025Q3_chunk_029"
+      ],
+      "topics": [
+        "John Stauch Response on North America Performance"
+      ],
+      "word_count": 41,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "market conditions"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 14,
+      "speaker": "Deane Dray",
+      "text": "Can you just want to follow-up on some of Andy's questions on the transformation? Just kind of could you give us some context of where those savings are coming from, kind of what buckets SG and A? And how much more is there to go there?",
+      "chunks": [
+        "PNR_2025Q3_chunk_030"
+      ],
+      "topics": [
+        "Analyst Question on Transformation Savings"
+      ],
+      "word_count": 46,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "cost management",
+        "operational efficiency"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 15,
+      "speaker": "Bob Fishman",
+      "text": "Yeah. I'll go ahead and start. And, you know, the transformation journey, you know, two years ago, we drove six seven of savings. Last year, a $107 million. This year, we're tracking 80, you know, on the way to that 26% ROS.",
+      "chunks": [
+        "PNR_2025Q3_chunk_031"
+      ],
+      "topics": [
+        "Bob Fishman Response on Transformation Savings Sources"
+      ],
+      "word_count": 42,
+      "key_metrics": [
+        "Previous savings $107 million",
+        "Transformation savings $80 million"
+      ],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "cost management"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 16,
+      "speaker": "Deane Dray",
+      "text": "Just second question, back on pool, there was no mention of an early buy. You know, you don't do that every year, but just, you know, is that not needed? And so just to clarify, that's not in your assumption.",
+      "chunks": [
+        "PNR_2025Q3_chunk_032"
+      ],
+      "topics": [
+        "Analyst Question on Pool Early Buy"
+      ],
+      "word_count": 40,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": [
+        "Inventory Management"
+      ]
+    },
+    {
+      "segment_id": 17,
+      "speaker": "John Stauch",
+      "text": "No. The early buys are always there. Seen every single year in pool. We would say that it was a normal early buy season, and we're experiencing, you know, carries forward here in as you know, that's the level of the factories, but there has been no abnormal efforts related early buy.",
+      "chunks": [
+        "PNR_2025Q3_chunk_033"
+      ],
+      "topics": [
+        "John Stauch Response on Pool Early Buy"
+      ],
+      "word_count": 52,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "supply chain optimization",
+        "operational efficiency"
+      ],
+      "supply_chain_concepts": [
+        "Demand Planning"
+      ]
+    },
+    {
+      "segment_id": 18,
+      "speaker": "Damian Karas",
+      "text": "I wanted to get in the weeds a little bit on the flow segment. So you got three points of price overall. Could you just talk about, you know, was there much variation in that? Across residential and commercial versus industrial? And because that industrial solution's up 10% really stood out. So maybe you could just kind of talk about what you saw there.",
+      "chunks": [
+        "PNR_2025Q3_chunk_034"
+      ],
+      "topics": [
+        "Analyst Question on Flow Segment Pricing"
+      ],
+      "word_count": 64,
+      "key_metrics": [],
+      "matched_terms": [
+        {
+          "term_id": "be43840e-ab06-40a3-87fe-c4c8734b790d",
+          "term": "industrial market",
+          "score": 0.5070000290870667
+        }
+      ],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 19,
+      "speaker": "Bob Fishman",
+      "text": "Yeah. Again, we were really pleased with the performance of flow in the quarter. To drive growth across resi, commercial, and industrial was excellent for us. We're seeing price reading out across all three of those businesses.",
+      "chunks": [
+        "PNR_2025Q3_chunk_035"
+      ],
+      "topics": [
+        "Bob Fishman Response on Flow Segment Performance"
+      ],
+      "word_count": 37,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "market expansion"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 20,
+      "speaker": "John Stauch",
+      "text": "Well, I'm not going to address it sequentially because I look at them year over year. You know, we have two really busy seasons and pool quarters in pool and two softer ones. But you know, we would tell you that the price increases that we put in we held and we saw no challenges associated with it.",
+      "chunks": [
+        "PNR_2025Q3_chunk_036"
+      ],
+      "topics": [
+        "John Stauch Response on Pool Pricing Stability"
+      ],
+      "word_count": 58,
+      "key_metrics": [],
+      "matched_terms": [
+        {
+          "term_id": "1799e5ef-92a4-4244-bf17-c4f18689c997",
+          "term": "seasonality",
+          "score": 0.5019999742507935
+        }
+      ],
+      "negotiable_issues": [],
+      "business_themes": [
+        "market conditions",
+        "cost management"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 21,
+      "speaker": "Mike Halloran",
+      "text": "At this point, what is the carryover pricing in the next year from a percentage basis? So in other words, if you didn't implement any incremental price from here, what does that carryover look like?",
+      "chunks": [
+        "PNR_2025Q3_chunk_037"
+      ],
+      "topics": [
+        "Analyst Question on Pricing Carryover"
+      ],
+      "word_count": 35,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [
+        {
+          "negotiable_issue_number": "83",
+          "negotiable_issue_text": "Future Pricing Models",
+          "score": 0.5120000243186951
+        }
+      ],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 22,
+      "speaker": "Bob Fishman",
+      "text": "It's encouraging for us to, you know, kind of start the year with some of that momentum, not only in the overall business but also with price carryover at this point, we think it's one to two points. That would help us next year.",
+      "chunks": [
+        "PNR_2025Q3_chunk_038"
+      ],
+      "topics": [
+        "Bob Fishman Response on Pricing Carryover"
+      ],
+      "word_count": 44,
+      "key_metrics": [
+        "Pricing carryover 1% to 2%"
+      ],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "market conditions"
+      ],
+      "supply_chain_concepts": [
+        "Pricing Strategy"
+      ]
+    },
+    {
+      "segment_id": 23,
+      "speaker": "Mike Halloran",
+      "text": "And then maybe just a thought on the tariffs. Are you seeing any benefits on the competitive side or anything notable on the competitive side? Associated with how those tariffs are rolling through your footprint versus others in the industries you cover or produce in? Any thoughts on the competitive dynamics.",
+      "chunks": [
+        "PNR_2025Q3_chunk_039"
+      ],
+      "topics": [
+        "Analyst Question on Competitive Dynamics"
+      ],
+      "word_count": 51,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [
+        {
+          "negotiable_issue_number": "73",
+          "negotiable_issue_text": "Tariffs",
+          "score": 0.5659999847412109
+        }
+      ],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 24,
+      "speaker": "John Stauch",
+      "text": "No, Mike. I mean, I think we're all, you know, even though we're all different with some of our supply chain sources, we're all chasing the same commodities and looking for the same access points.",
+      "chunks": [
+        "PNR_2025Q3_chunk_040"
+      ],
+      "topics": [
+        "John Stauch Response on Competitive Dynamics"
+      ],
+      "word_count": 35,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "supply chain optimization",
+        "market conditions"
+      ],
+      "supply_chain_concepts": [
+        "Commodity Sourcing",
+        "Supply Chain Competition"
+      ]
+    },
+    {
+      "segment_id": 25,
+      "speaker": "Julian Mitchell",
+      "text": "I guess my first question just around when we're thinking about the revenue outlook on organic sales for 2026, just sort of trying to understand the sort of entry rate into the New Year.",
+      "chunks": [
+        "PNR_2025Q3_chunk_041"
+      ],
+      "topics": [
+        "Analyst Question on Revenue Outlook for 2026"
+      ],
+      "word_count": 34,
+      "key_metrics": [],
+      "matched_terms": [
+        {
+          "term_id": "c781597c-b66d-4f7b-b855-1fdc1701e838",
+          "term": "revenue",
+          "score": 0.5130000114440918
+        }
+      ],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 26,
+      "speaker": "Bob Fishman",
+      "text": "Without giving 2026 guidance at this early stage, I will make mention of the fact that we do feel like we have some tailwinds coming into 2026. So the businesses are performing well, and we have some top-line momentum in the back half that should carry forward into the new year.",
+      "chunks": [
+        "PNR_2025Q3_chunk_042"
+      ],
+      "topics": [
+        "Bob Fishman Response on 2026 Outlook"
+      ],
+      "word_count": 51,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "market expansion"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 27,
+      "speaker": "John Stauch",
+      "text": "We also, though, have to be cautious in terms of looking at potential headwinds. Tariffs still create uncertainty for us. Interest rates are remaining high. General sentiment with end consumers, whether it's home sales or eating out with families.",
+      "chunks": [
+        "PNR_2025Q3_chunk_043"
+      ],
+      "topics": [
+        "John Stauch Response on Caution for 2026"
+      ],
+      "word_count": 39,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "market conditions",
+        "risk management"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 28,
+      "speaker": "Julian Mitchell",
+      "text": "And then just my follow-up would be around the operating margins. So it looks like sort of guide for the fourth quarter implies less than 100 bps of operating margin expansion year on year.",
+      "chunks": [
+        "PNR_2025Q3_chunk_044"
+      ],
+      "topics": [
+        "Analyst Question on Transformation and 8020"
+      ],
+      "word_count": 34,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 29,
+      "speaker": "Bob Fishman",
+      "text": "I would say from a full-year ROS expansion story, again, it's extremely pleased. And even in the fourth quarter, we're seeing ROS expansion across the businesses.",
+      "chunks": [
+        "PNR_2025Q3_chunk_045"
+      ],
+      "topics": [
+        "Bob Fishman Response on Operating Margins"
+      ],
+      "word_count": 26,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "margin expansion",
+        "operational efficiency"
+      ],
+      "supply_chain_concepts": [
+        "Return on Sales (ROS)"
+      ]
+    },
+    {
+      "segment_id": 30,
+      "speaker": "Brian Blair",
+      "text": "Bob, you had emphasized, I think it was in response to Damian's question, kind of the broadened focus and growth vectors of the Flow business. Just wondering if you can speak to, you know, the traction to date, offer a little more detail on what that's meant to Flow's 2025 progression.",
+      "chunks": [
+        "PNR_2025Q3_chunk_046"
+      ],
+      "topics": [
+        "Analyst Question on Flow Business Growth"
+      ],
+      "word_count": 51,
+      "key_metrics": [],
+      "matched_terms": [
+        {
+          "term_id": "171c92af-1aa8-4d33-923a-609ebcc1302d",
+          "term": "growth trajectory",
+          "score": 0.5260000228881836
+        }
+      ],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 31,
+      "speaker": "Bob Fishman",
+      "text": "Overall, for us with Flow, the significant top-line growth and again, we've guided to Q4 for Flow to grow high single digits. I think about roughly half of that is core growth, the other half benefiting from FX and acquisition of HydroStop.",
+      "chunks": [
+        "PNR_2025Q3_chunk_047"
+      ],
+      "topics": [
+        "Bob Fishman Response on Flow Business Growth"
+      ],
+      "word_count": 42,
+      "key_metrics": [
+        "Flow growth high single digits"
+      ],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "market expansion"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 32,
+      "speaker": "John Stauch",
+      "text": "We do think there's cross-selling opportunities as we look at where they're specified and where they're currently providing value and where we're specified in providing value, and how do we go work with those specifiers to get an extended offering?",
+      "chunks": [
+        "PNR_2025Q3_chunk_048"
+      ],
+      "topics": [
+        "John Stauch Response on HydroStop Acquisition"
+      ],
+      "word_count": 40,
+      "key_metrics": [],
+      "matched_terms": [
+        {
+          "term_id": "b976811a-63d9-4a0f-af00-ce5e7387ef40",
+          "term": "cross-selling",
+          "score": 0.5059999823570251
+        }
+      ],
+      "negotiable_issues": [],
+      "business_themes": [
+        "innovation",
+        "market expansion"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 33,
+      "speaker": "Andrew Buscaglia",
+      "text": "I wanted to check in maybe one of the last few times on your capital allocation into year-end. Been pretty active with repurchases and M&A. And I'm wondering if you know, maybe we're seeing some increased activity on the M&A front with, you know, some optimism around interest rates.",
+      "chunks": [
+        "PNR_2025Q3_chunk_049"
+      ],
+      "topics": [
+        "Analyst Question on Capital Allocation"
+      ],
+      "word_count": 49,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "cost management",
+        "market expansion"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 34,
+      "speaker": "John Stauch",
+      "text": "Right now, we couldn't be more pleased with the balanced approach to the capital allocation story. We've got a little bit of M&A contribution here that we think was well spent. We continue to demonstrate buying back our stock, and we're continuing to pay a dividend as we mentioned forty-nine years.",
+      "chunks": [
+        "PNR_2025Q3_chunk_050"
+      ],
+      "topics": [
+        "John Stauch Response on Capital Allocation Strategy"
+      ],
+      "word_count": 51,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "cost management"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 35,
+      "speaker": "Andrew Crow",
+      "text": "Can you just level set us on what percent of sales right now you'd consider digital or digital-enabled? Maybe any views on where this could go over time?",
+      "chunks": [
+        "PNR_2025Q3_chunk_051"
+      ],
+      "topics": [
+        "Analyst Question on Digital Strategy"
+      ],
+      "word_count": 28,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 36,
+      "speaker": "John Stauch",
+      "text": "I do think that it is the time to consider how we're gonna use artificial intelligence, how we're gonna look at our enterprise product technology opportunities, how we're gonna digitize factories, and how we're gonna provide elite customer experiences.",
+      "chunks": [
+        "PNR_2025Q3_chunk_052"
+      ],
+      "topics": [
+        "John Stauch Response on Digital Strategy"
+      ],
+      "word_count": 39,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "customer service",
+        "innovation",
+        "operational efficiency"
+      ],
+      "supply_chain_concepts": [
+        "Digital Transformation",
+        "Artificial Intelligence Integration"
+      ]
+    },
+    {
+      "segment_id": 37,
+      "speaker": "Bob Fishman",
+      "text": "I couldn't be more pleased for Heather so often sitting in the executive leadership team meetings. I'm thinking to myself, boy, it would be nice for Heather to hear this firsthand.",
+      "chunks": [
+        "PNR_2025Q3_chunk_053"
+      ],
+      "topics": [
+        "Bob Fishman Response on Digital Strategy"
+      ],
+      "word_count": 31,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 38,
+      "speaker": "Andrew Crow",
+      "text": "Could you comment a little on just inventory in the channel? Across your different segments? And just if you're seeing anything that seems a bit out of balance at this point.",
+      "chunks": [
+        "PNR_2025Q3_chunk_054"
+      ],
+      "topics": [
+        "Analyst Question on Inventory Levels"
+      ],
+      "word_count": 31,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [
+        {
+          "negotiable_issue_number": "61",
+          "negotiable_issue_text": "Inventory Solutions: Kanban, Consignment & VMI",
+          "score": 0.5360000133514404
+        }
+      ],
+      "business_themes": [],
+      "supply_chain_concepts": [
+        "Inventory Management"
+      ]
+    },
+    {
+      "segment_id": 39,
+      "speaker": "Bob Fishman",
+      "text": "No. Not seeing anything unusual and out of balance. We really are at historical levels in almost all of our industries that we serve. So in good shape as we, you know, turn the page into 2026.",
+      "chunks": [
+        "PNR_2025Q3_chunk_055"
+      ],
+      "topics": [
+        "Bob Fishman Response on Inventory Levels"
+      ],
+      "word_count": 37,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "supply chain optimization",
+        "operational efficiency"
+      ],
+      "supply_chain_concepts": [
+        "Inventory Stability"
+      ]
+    },
+    {
+      "segment_id": 40,
+      "speaker": "Nigel Coe",
+      "text": "John, last quarter, mentioned price fatigue and a bit more repair activity. Amongst the contractors. Are you seeing any change in that?",
+      "chunks": [
+        "PNR_2025Q3_chunk_056"
+      ],
+      "topics": [
+        "Analyst Question on Price Fatigue"
+      ],
+      "word_count": 22,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 41,
+      "speaker": "John Stauch",
+      "text": "I do think I'm proud of the fact that we've been able to capture that and expand margins and generally produce profit for shareowners. But I think you gotta start looking at through value propositions, dealer enablement, and consumer lenses.",
+      "chunks": [
+        "PNR_2025Q3_chunk_057"
+      ],
+      "topics": [
+        "John Stauch Response on Price Fatigue"
+      ],
+      "word_count": 40,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "customer service",
+        "revenue growth",
+        "margin expansion"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 42,
+      "speaker": "Bob Fishman",
+      "text": "Yes. We had a good mix count of these. Yeah. I tell you what, you know, when we get sales growth and volume, that tends to drive mix for us.",
+      "chunks": [
+        "PNR_2025Q3_chunk_058"
+      ],
+      "topics": [
+        "Bob Fishman Response on Profit Bridge"
+      ],
+      "word_count": 30,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "operational efficiency"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 43,
+      "speaker": "Joe Giordano",
+      "text": "Just given kinda building on what Nigel was just talking about. Just given the amount of price that's been put through over the last several years, we're hearing a little bit more about like, dealer or dealers and installers kinda using some more foreign products.",
+      "chunks": [
+        "PNR_2025Q3_chunk_059"
+      ],
+      "topics": [
+        "Analyst Question on Low-Cost Products"
+      ],
+      "word_count": 45,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 44,
+      "speaker": "John Stauch",
+      "text": "Short answer is yes. It's starting to emerge. Long answer is it's not gonna be a huge impact in the short run. But we have to make sure that we're offering better value to our customers.",
+      "chunks": [
+        "PNR_2025Q3_chunk_060"
+      ],
+      "topics": [
+        "John Stauch Response on Low-Cost Products"
+      ],
+      "word_count": 36,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "customer service",
+        "market expansion"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 45,
+      "speaker": "Jeff Hammond",
+      "text": "Just wondering what that contemplates for incremental tariffs. And then should we expect something similar from the other businesses where there's maybe an above-normal price increase because some carryover tariff impact?",
+      "chunks": [
+        "PNR_2025Q3_chunk_061"
+      ],
+      "topics": [
+        "Analyst Question on Pricing Strategy"
+      ],
+      "word_count": 31,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [
+        {
+          "negotiable_issue_number": "73",
+          "negotiable_issue_text": "Tariffs",
+          "score": 0.6370000243186951
+        }
+      ],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 46,
+      "speaker": "John Stauch",
+      "text": "We don't always net that full amount, because we do work with our dealers and have dealer incentives that give them discounts on volumes, or certain levels that they achieve.",
+      "chunks": [
+        "PNR_2025Q3_chunk_062"
+      ],
+      "topics": [
+        "John Stauch Response on Pricing Strategy"
+      ],
+      "word_count": 30,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "cost management"
+      ],
+      "supply_chain_concepts": [
+        "Dealer Incentives",
+        "Pricing Strategy"
+      ]
+    },
+    {
+      "segment_id": 47,
+      "speaker": "Scott Graham",
+      "text": "Just wanted to kind of get into was the organic growth investments. It sounds to me like you're doing a lot on the front end, understandable, given your distribution sort of pie chart.",
+      "chunks": [
+        "PNR_2025Q3_chunk_063"
+      ],
+      "topics": [
+        "Analyst Question on Capital Allocation Strategy"
+      ],
+      "word_count": 33,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 48,
+      "speaker": "John Stauch",
+      "text": "So I put it into three major categories. Scott, real quickly. I think we want to drive demand in our dealer channel. Right? We've been a little past about last few years in letting the dealers find their own path towards creating the demand, we've gotta pull demand.",
+      "chunks": [
+        "PNR_2025Q3_chunk_064"
+      ],
+      "topics": [
+        "John Stauch Response on Organic Growth Investments"
+      ],
+      "word_count": 48,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "market expansion"
+      ],
+      "supply_chain_concepts": [
+        "Demand Generation",
+        "Channel Management"
+      ]
+    }
+  ],
+  "speakers_summary": [
+    {
+      "speaker": "Julian Mitchell",
+      "segment_count": 2,
+      "word_count": 68
+    },
+    {
+      "speaker": "Mike Halloran",
+      "segment_count": 2,
+      "word_count": 86
+    },
+    {
+      "speaker": "Nigel Coe",
+      "segment_count": 1,
+      "word_count": 22
+    },
+    {
+      "speaker": "Andrew Buscaglia",
+      "segment_count": 1,
+      "word_count": 49
+    },
+    {
+      "speaker": "Andrew Crow",
+      "segment_count": 2,
+      "word_count": 59
+    },
+    {
+      "speaker": "Jeff Hammond",
+      "segment_count": 1,
+      "word_count": 31
+    },
+    {
+      "speaker": "Scott Graham",
+      "segment_count": 1,
+      "word_count": 33
+    },
+    {
+      "speaker": "John Stauch",
+      "segment_count": 15,
+      "word_count": 936
+    },
+    {
+      "speaker": "Shelly Hubbard",
+      "segment_count": 1,
+      "word_count": 164
+    },
+    {
+      "speaker": "Steve Tusa",
+      "segment_count": 2,
+      "word_count": 114
+    },
+    {
+      "speaker": "Joe Giordano",
+      "segment_count": 1,
+      "word_count": 45
+    },
+    {
+      "speaker": "Operator",
+      "segment_count": 1,
+      "word_count": 68
+    },
+    {
+      "speaker": "Bob Fishman",
+      "segment_count": 13,
+      "word_count": 918
+    },
+    {
+      "speaker": "Brian Blair",
+      "segment_count": 1,
+      "word_count": 51
+    },
+    {
+      "speaker": "Deane Dray",
+      "segment_count": 2,
+      "word_count": 86
+    },
+    {
+      "speaker": "Andy Kaplowitz",
+      "segment_count": 1,
+      "word_count": 70
+    },
+    {
+      "speaker": "Damian Karas",
+      "segment_count": 1,
+      "word_count": 64
+    }
+  ]
+}

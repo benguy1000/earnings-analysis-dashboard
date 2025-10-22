@@ -1,0 +1,1233 @@
+{
+  "metadata": {
+    "company_symbol": "PNR",
+    "quarter": "2025Q2",
+    "generated_at": "2025-10-21T18:03:31.735233",
+    "total_segments": 41,
+    "total_words": 3339,
+    "speakers": [
+      "Robert P. Fishman",
+      "Julian C.H. Mitchell",
+      "Deane Michael Dray",
+      "Shelly Hubbard",
+      "Nathan Hardie Jones",
+      "Steve Tusa",
+      "Brett Logan Linzey",
+      "Bryan Francis Blair",
+      "Andrew Alec Kaplowitz",
+      "Andrew Jon Krill",
+      "Andrew Edouard Buscaglia",
+      "Saree Emily Boroditsky",
+      "Brian K. Lee",
+      "Operator",
+      "John L. Stauch"
+    ],
+    "unique_terms_count": 6,
+    "unique_issues_count": 2
+  },
+  "terms_index": [
+    "business intelligence",
+    "distributor",
+    "market demand",
+    "pooling",
+    "price discrimination",
+    "tariff"
+  ],
+  "negotiable_issues_index": [
+    "Part Rationalization",
+    "Tariffs"
+  ],
+  "terms_full": [
+    {
+      "term_id": "e4d1aed9-1d96-49fd-a0ed-3d9fd1fc5ff4",
+      "term": "market demand",
+      "score": 0.5059999823570251
+    },
+    {
+      "term_id": "579f839b-5dd5-4b18-be4a-f34783c29c1e",
+      "term": "tariff",
+      "score": 0.5680000185966492
+    },
+    {
+      "term_id": "579f839b-5dd5-4b18-be4a-f34783c29c1e",
+      "term": "tariff",
+      "score": 0.5149999856948853
+    },
+    {
+      "term_id": "0b54ab31-a62c-457e-a3a7-be2de7222f74",
+      "term": "pooling",
+      "score": 0.503000020980835
+    },
+    {
+      "term_id": "01b68a4b-a072-432c-9ae9-b99c0e8bef75",
+      "term": "business intelligence",
+      "score": 0.5019999742507935
+    },
+    {
+      "term_id": "579f839b-5dd5-4b18-be4a-f34783c29c1e",
+      "term": "tariff",
+      "score": 0.6010000109672546
+    },
+    {
+      "term_id": "579f839b-5dd5-4b18-be4a-f34783c29c1e",
+      "term": "tariff",
+      "score": 0.5789999961853027
+    },
+    {
+      "term_id": "579f839b-5dd5-4b18-be4a-f34783c29c1e",
+      "term": "tariff",
+      "score": 0.527999997138977
+    },
+    {
+      "term_id": "8bd7e76d-a302-4e6e-98e1-24b1c5bc060e",
+      "term": "distributor",
+      "score": 0.5180000066757202
+    },
+    {
+      "term_id": "f8a4dc9d-d2d7-4b88-b6f2-93416030255d",
+      "term": "price discrimination",
+      "score": 0.503000020980835
+    }
+  ],
+  "negotiable_issues_full": [
+    {
+      "negotiable_issue_number": "73",
+      "negotiable_issue_text": "Tariffs",
+      "score": 0.5370000004768372
+    },
+    {
+      "negotiable_issue_number": "73",
+      "negotiable_issue_text": "Tariffs",
+      "score": 0.6299999952316284
+    },
+    {
+      "negotiable_issue_number": "73",
+      "negotiable_issue_text": "Tariffs",
+      "score": 0.5600000023841858
+    },
+    {
+      "negotiable_issue_number": "73",
+      "negotiable_issue_text": "Tariffs",
+      "score": 0.5099999904632568
+    },
+    {
+      "negotiable_issue_number": "73",
+      "negotiable_issue_text": "Tariffs",
+      "score": 0.5640000104904175
+    },
+    {
+      "negotiable_issue_number": "73",
+      "negotiable_issue_text": "Tariffs",
+      "score": 0.5540000200271606
+    },
+    {
+      "negotiable_issue_number": "73",
+      "negotiable_issue_text": "Tariffs",
+      "score": 0.5139999985694885
+    },
+    {
+      "negotiable_issue_number": "34",
+      "negotiable_issue_text": "Part Rationalization",
+      "score": 0.5070000290870667
+    }
+  ],
+  "segments": [
+    {
+      "segment_id": 1,
+      "speaker": "Shelly Hubbard",
+      "text": "Thank you, operator, and welcome to Pentair's Second Quarter 2025 Earnings Conference Call. On the call with me are John Stauch, our President and Chief Executive Officer; and Bob Fishman, our Chief Financial Officer. On today's call, we will provide details on our second quarter performance as outlined in this morning's press release. On the Pentair Investor Relations website, you can find our earnings release and slide deck, which is intended to supplement our prepared remarks during today's call and provide a reconciliation of differences between GAAP and non-GAAP financial measures that we will reference. Before we begin, let me remind you that during our presentation today, we will make forward-looking statements, which are predictions, projections or other statements about future events. Listeners are cautioned that these statements are subject to certain risks and uncertainties, many of which are difficult to predict and generally beyond the control of Pentair. These risks and uncertainties can cause actual results to differ materially from our current expectations.",
+      "chunks": [
+        "PNR_2025Q2_chunk_001",
+        "PNR_2025Q2_chunk_002"
+      ],
+      "topics": [
+        "Introduction to Q2 Earnings Call",
+        "Forward-Looking Statements Warning"
+      ],
+      "word_count": 164,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 2,
+      "speaker": "John L. Stauch",
+      "text": "Thank you, Shelly, and good morning, everyone. Thank you for joining us today. Before we get to our record Q2 results, I want to take a moment to recognize our entire Pentair team. Your leadership has helped to elevate us to new levels of financial and operational execution in an extremely volatile environment. Now let's turn to the Q2 executive summary on Slide 8. We delivered a record quarter across all four metrics: sales, adjusted operating income, return on sales, and adjusted EPS in one of the most continuously challenging dynamic landscapes globally. In Q2, sales increased 2% and Pool grew 9%. Adjusted operating income increased 9%, ROS expanded by 170 basis points to 26.4%, and adjusted EPS rose 14% to $1.39. We also delivered record free cash flow and repurchased $75 million of shares in Q2. Driven by continued confidence in our ability to execute, we have increased our full-year '25 guidance. We now expect sales growth of approximately 1% to 2% and adjusted EPS to be approximately $4.75 to $4.85, up 11% at the midpoint versus full year 2024. In Q2, we made an incremental investment in an exciting new start-up known as HOPE Hydration, whose mission is to deliver free water through its digitally connected water refill hydro stations. At Pentair, we are continuously evolving to drive consistent long-term shareholder value. We have talked about our transformation initiatives and more recently, 80/20. At the same time, our teams are also focused on driving growth within their businesses and investing in strategic growth initiatives, including high-performing talent, new and breakthrough product innovations, go-to-market strategies, and digital transformation. Since the beginning of 2023, we have delivered over $200 million in transformation savings, net of investments, which includes the $44 million we drove in the first half of this year. We have committed to a total of $80 million in 2025, net of investments, and we see additional savings in 2026 to achieve our ROS target of 26% by 2026 year-end. We delivered a record quarter in Q2. We increased our full-year 2025 guidance due to increased confidence in our strategy. We continue to build a foundation of optimal operational efficiency that can be leveraged when volume returns to normal. We have a balanced water portfolio and a capital-light business model, with 75% of our businesses going through two-step distribution and roughly 75% of our revenue representing replacement sales.",
+      "chunks": [
+        "PNR_2025Q2_chunk_003",
+        "PNR_2025Q2_chunk_004",
+        "PNR_2025Q2_chunk_005",
+        "PNR_2025Q2_chunk_006",
+        "PNR_2025Q2_chunk_007",
+        "PNR_2025Q2_chunk_008"
+      ],
+      "topics": [
+        "Transformation Savings Update",
+        "Strategic Overview",
+        "Q2 Executive Summary",
+        "Full-Year 2025 Guidance Update",
+        "Key Themes from Q2",
+        "Q2 Sales and Financial Metrics"
+      ],
+      "word_count": 399,
+      "key_metrics": [
+        "$44 million in H1 2025",
+        "ROS 26.4%",
+        "Sales growth 1% to 2%",
+        "Adjusted EPS $4.75 to $4.85",
+        "$200 million in transformation savings",
+        "Adjusted EPS $1.39",
+        "Pool growth 9%",
+        "$80 million commitment for 2025",
+        "Sales increase 2%",
+        "Free cash flow record"
+      ],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "market expansion",
+        "operational efficiency",
+        "market conditions",
+        "innovation",
+        "cost management"
+      ],
+      "supply_chain_concepts": [
+        "Two-Step Distribution",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "segment_id": 3,
+      "speaker": "Robert P. Fishman",
+      "text": "Thank you, John, and good morning, everyone. Let's start on Slide 12. As John mentioned, we delivered a record quarter in sales, adjusted operating income, return on sales, and adjusted EPS in Q2 despite lower volume. We also drove record free cash flow. In Q2, we delivered sales of $1.1 billion, up 2%, adjusted operating income of $297 million, up 9%, ROS of 26.4%, which expanded 170 basis points, driven primarily by transformation and price, and adjusted EPS of $1.39, up 14%. Flow sales were flat year-over-year. Within Flow, residential sales were down 1% as higher interest rates continue to pressure residential end markets, but the rate of decline has improved considerably over the last two years. Commercial sales rose 1%, marking the 12th consecutive quarter of year-over-year sales growth. Industrial sales were flat, but a nice improvement versus the last few quarters. In Q2, Water Solutions sales declined 4% to $298 million, driven primarily by lower volume, which was partially offset by higher price. Commercial sales were down 3%, largely driven by softer end markets within foodservice. Within residential, sales were down 6% year-over-year, primarily due to a continued sluggish U.S. housing market and portfolio actions to improve the growth and profitability of the business. In Q2, Pool sales increased 9% to $427 million, driven by price, volume, and our Q4 2024 Gulfstream acquisition. Segment income was $153 million, up 14%, and return on sales increased 160 basis points to 35.7%, driven by price and transformation. We do expect price versus cost to normalize in Q3 as we incur a full quarter of tariffs. We generated record free cash flow of $596 million in Q2, up 14% year-over-year. Our balance sheet remains strong, and our return on invested capital surpassed 16%. Long term, we continue to target high teens ROIC. Our net debt leverage ratio was 1.2x, down from 1.6x a year ago. For the full year, we are increasing our adjusted EPS guidance to approximately $4.75 to $4.85, which is up roughly 10% to 12% year-over-year. Also for the full year, we are increasing our sales guidance to up approximately 1% to 2% despite an approximate $40 million headwind relating to the sale of our commercial services business in Q2. For the third quarter, we expect sales to be approximately flat to up 1%. We expect Flow sales to be up approximately mid-single digits. We anticipate Water Solutions sales to be down approximately mid- to high single digits, with core sales approximately flat, including commercial water sales to be up approximately low to mid-single digits. Pool sales are expected to be up approximately 3% to 4%. We've updated our 2025 tariff impact to be approximately $75 million for the full year, which includes $15 million in Q2 and an estimated $60 million in the second half of 2025. This $75 million, which is included in our guidance compares to our previous estimate in Q1 of $140 million.",
+      "chunks": [
+        "PNR_2025Q2_chunk_009",
+        "PNR_2025Q2_chunk_010",
+        "PNR_2025Q2_chunk_011",
+        "PNR_2025Q2_chunk_012",
+        "PNR_2025Q2_chunk_013",
+        "PNR_2025Q2_chunk_014",
+        "PNR_2025Q2_chunk_015",
+        "PNR_2025Q2_chunk_016"
+      ],
+      "topics": [
+        "Free Cash Flow Performance",
+        "Q3 Sales Expectations",
+        "Tariff Impact Update",
+        "Water Solutions Segment Performance",
+        "Full-Year 2025 Outlook",
+        "Financial Performance Overview",
+        "Pool Segment Performance",
+        "Flow Segment Performance"
+      ],
+      "word_count": 489,
+      "key_metrics": [
+        "Net debt leverage ratio 1.2x",
+        "Q3 sales flat to up 1%",
+        "Adjusted Operating Income $297 million",
+        "Commercial sales up 1%",
+        "2025 tariff impact $75 million",
+        "Pool sales $427 million",
+        "Sales $1.1 billion",
+        "Sales guidance 1% to 2%",
+        "Adjusted EPS guidance $4.75 to $4.85",
+        "Return on sales 35.7%",
+        "Residential sales down 1%",
+        "Sales increase 9%",
+        "Residential sales down 6%",
+        "Water Solutions sales $298 million",
+        "Q2 tariff impact $15 million",
+        "Sales decline 4%",
+        "ROS 26.4%",
+        "Segment income $153 million",
+        "Adjusted EPS $1.39",
+        "12 consecutive quarters of growth",
+        "Pool sales up 3% to 4%",
+        "Flow sales mid-single digits",
+        "ROIC surpassed 16%",
+        "Free cash flow $596 million"
+      ],
+      "matched_terms": [
+        {
+          "term_id": "e4d1aed9-1d96-49fd-a0ed-3d9fd1fc5ff4",
+          "term": "market demand",
+          "score": 0.5059999823570251
+        },
+        {
+          "term_id": "579f839b-5dd5-4b18-be4a-f34783c29c1e",
+          "term": "tariff",
+          "score": 0.5680000185966492
+        }
+      ],
+      "negotiable_issues": [
+        {
+          "negotiable_issue_number": "73",
+          "negotiable_issue_text": "Tariffs",
+          "score": 0.5370000004768372
+        }
+      ],
+      "business_themes": [
+        "revenue growth",
+        "market expansion",
+        "operational efficiency",
+        "market conditions",
+        "cost management",
+        "working capital management"
+      ],
+      "supply_chain_concepts": [
+        "Market Analysis",
+        "Demand Forecasting"
+      ]
+    },
+    {
+      "segment_id": 4,
+      "speaker": "Andrew Alec Kaplowitz",
+      "text": "John, could you talk about what you're seeing in pool in terms of unit volumes and sensitivity to higher prices? I think Q2 at 7% core growth came in at the higher end of expectations. So was that better-than-expected volume or more price? And then you raised pool for the year to up 6% to 7% versus, I think, up 4% to 5% where you were before. Where is the improvement coming from? Is it less assumed demand degradation? Any color between new pools, renovation break, and fix would be helpful.",
+      "chunks": [
+        "PNR_2025Q2_chunk_017"
+      ],
+      "topics": [
+        "Analyst Question on Pool Volumes"
+      ],
+      "word_count": 91,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "market conditions"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 5,
+      "speaker": "John L. Stauch",
+      "text": "Yes. I mean, I think we're now seeing an environment that we would expect new pool builds that we generally thought were flat to maybe modestly up, now feeling like they'll be modestly down. I think also on the remodel side, we're seeing that environment be deferred. I feel like there's a little bit of slide to the right that's occurring on some of the larger projects. And we're also seeing customers extend product life by spare parts, spare part kits and seeing a little bit more repairs than we would have normally seen in these types of environments.",
+      "chunks": [
+        "PNR_2025Q2_chunk_018"
+      ],
+      "topics": [
+        "CEO Answer on Pool Volumes"
+      ],
+      "word_count": 99,
+      "key_metrics": [
+        "New pool builds modestly down",
+        "15% price increase in trailing 12 months"
+      ],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "market conditions",
+        "operational efficiency"
+      ],
+      "supply_chain_concepts": [
+        "Product Lifecycle Management",
+        "Demand Forecasting"
+      ]
+    },
+    {
+      "segment_id": 6,
+      "speaker": "Andrew Alec Kaplowitz",
+      "text": "Very helpful. And then, John or Bob, I'm just trying to understand how you're thinking about price versus cost for the year because I think you passed through, I think it was 75% of the pricing on that original $140 million expected tariffs in early April. It's a lot higher than the $75 million of expected total tariff costs you have now. So are you forecasting rebating in the year, baking in some contingency for maybe new tariff costs that could come on August 1? How are you thinking about price versus cost in your guidance?",
+      "chunks": [
+        "PNR_2025Q2_chunk_019"
+      ],
+      "topics": [
+        "Analyst Question on Price vs Cost"
+      ],
+      "word_count": 96,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 7,
+      "speaker": "Robert P. Fishman",
+      "text": "Yes. Generally, in terms of the tariff, we're thinking about price offsetting the tariffs. If you remember back at the beginning of Q1, we had estimated the tariff impact at roughly $140 million in year, and that was primarily driven by that high China tariff. Now when we size it, it's closer to that $75 million. So think of roughly a $65 million benefit from those lower tariffs.",
+      "chunks": [
+        "PNR_2025Q2_chunk_020"
+      ],
+      "topics": [
+        "CFO Answer on Price vs Cost"
+      ],
+      "word_count": 68,
+      "key_metrics": [
+        "Benefit from lower tariffs $65 million",
+        "Tariff impact $75 million"
+      ],
+      "matched_terms": [],
+      "negotiable_issues": [
+        {
+          "negotiable_issue_number": "73",
+          "negotiable_issue_text": "Tariffs",
+          "score": 0.6299999952316284
+        }
+      ],
+      "business_themes": [
+        "market conditions",
+        "cost management"
+      ],
+      "supply_chain_concepts": [
+        "Tariff Optimization",
+        "Cost Management"
+      ]
+    },
+    {
+      "segment_id": 8,
+      "speaker": "Steve Tusa",
+      "text": "Yes, just following up on that. It seems that the price reflected in today's numbers only shows part of what you have implemented due to the timing in the quarter. I understand that you haven't accounted for the rest of the price necessary to cover the tariffs.",
+      "chunks": [
+        "PNR_2025Q2_chunk_021"
+      ],
+      "topics": [
+        "Analyst Question on Pool Pricing"
+      ],
+      "word_count": 47,
+      "key_metrics": [],
+      "matched_terms": [
+        {
+          "term_id": "579f839b-5dd5-4b18-be4a-f34783c29c1e",
+          "term": "tariff",
+          "score": 0.5149999856948853
+        }
+      ],
+      "negotiable_issues": [
+        {
+          "negotiable_issue_number": "73",
+          "negotiable_issue_text": "Tariffs",
+          "score": 0.5600000023841858
+        }
+      ],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 9,
+      "speaker": "John L. Stauch",
+      "text": "That's correct. I mean we will have a normalized, what I'd say, a more normal price increase, Steve, in our normal pool season that will be slightly higher than an average year, which reflects generally more commodity inflation and general cost of inflation.",
+      "chunks": [
+        "PNR_2025Q2_chunk_022"
+      ],
+      "topics": [
+        "CEO Answer on Pool Pricing"
+      ],
+      "word_count": 43,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "market conditions",
+        "cost management"
+      ],
+      "supply_chain_concepts": [
+        "Cost Management",
+        "Pricing Strategy"
+      ]
+    },
+    {
+      "segment_id": 10,
+      "speaker": "Steve Tusa",
+      "text": "Lastly, regarding the fourth quarter, do you have any plans? How are you considering seasonality for that period? Is the caution in the pool end markets already reflected in the third quarter guidance, or is there something you anticipate will emerge in the fourth quarter?",
+      "chunks": [
+        "PNR_2025Q2_chunk_023"
+      ],
+      "topics": [
+        "Analyst Question on Q4 Seasonality"
+      ],
+      "word_count": 45,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 11,
+      "speaker": "John L. Stauch",
+      "text": "I have a little more caution in Q3 with Q4 more anticipating a 2026 pool year and more people positioning themselves into the 2026 look for how they're going to work with their customers on the remodels and the new pool builds.",
+      "chunks": [
+        "PNR_2025Q2_chunk_024"
+      ],
+      "topics": [
+        "CEO Answer on Q4 Seasonality"
+      ],
+      "word_count": 42,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "customer service",
+        "market conditions"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 12,
+      "speaker": "Brian K. Lee",
+      "text": "Regarding the pool guidance, you have increased it by a couple of hundred basis points. Can you clarify how much of that increase is due to price implementation and what you are observing in terms of price capture and pull-forward? Additionally, has there been any improvement in demand that contributes to the adjusted guidance? Has anything changed concerning the volume or demand factors influencing your guidance for the pool this year?",
+      "chunks": [
+        "PNR_2025Q2_chunk_025"
+      ],
+      "topics": [
+        "Analyst Question on Pool Guidance Increase"
+      ],
+      "word_count": 71,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 13,
+      "speaker": "Robert P. Fishman",
+      "text": "The way we're thinking about the 6% to 7% guide for pool, which is up from 4% to 5% last quarter is roughly a couple of points from the acquisition that we did in Q4 of 2024. Then we've got price of, call it, approximately 5% and then down slightly for the reasons John mentioned with volume.",
+      "chunks": [
+        "PNR_2025Q2_chunk_026"
+      ],
+      "topics": [
+        "CFO Answer on Pool Guidance Increase"
+      ],
+      "word_count": 57,
+      "key_metrics": [
+        "Pool guidance increase 6% to 7%",
+        "Price contribution approximately 5%"
+      ],
+      "matched_terms": [
+        {
+          "term_id": "0b54ab31-a62c-457e-a3a7-be2de7222f74",
+          "term": "pooling",
+          "score": 0.503000020980835
+        }
+      ],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "market expansion"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 14,
+      "speaker": "Brian K. Lee",
+      "text": "I know John mentioned this, but you seem optimistic that interest rate relief might be on the horizon, which could influence 2026 positively. However, if we remain in a high-interest-rate environment and we see the current macro conditions persist into the fourth quarter, what are your initial thoughts on how the pool build cycle might unfold next year?",
+      "chunks": [
+        "PNR_2025Q2_chunk_027"
+      ],
+      "topics": [
+        "Analyst Question on Interest Rates Impact"
+      ],
+      "word_count": 58,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 15,
+      "speaker": "John L. Stauch",
+      "text": "I\u2019m not certain at this point. As we develop our planning cycle, we\u2019ll have clearer insights as we approach our 2026 guidance. Currently, we expect that volume will continue to be somewhat slow. Our focus needs to be on increasing our content per pad through new product introductions and sales and marketing initiatives.",
+      "chunks": [
+        "PNR_2025Q2_chunk_028"
+      ],
+      "topics": [
+        "CEO Answer on Interest Rates Impact"
+      ],
+      "word_count": 53,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "market expansion"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 16,
+      "speaker": "Nathan Hardie Jones",
+      "text": "I wanted to ask a question on a bit more of the longer cycle, more CapEx-driven businesses, which I think probably mostly sit in flow. Maybe you could just talk about the environment there, how tariffs and how, I guess, the macro uncertainty are potentially impacting customer decision-making, deferred capital spending, things that would impact kind of your order book or your quoting rather than what's in demand today?",
+      "chunks": [
+        "PNR_2025Q2_chunk_029"
+      ],
+      "topics": [
+        "Analyst Question on Flow Segment Environment"
+      ],
+      "word_count": 69,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [
+        {
+          "negotiable_issue_number": "73",
+          "negotiable_issue_text": "Tariffs",
+          "score": 0.5099999904632568
+        }
+      ],
+      "business_themes": [
+        "market conditions",
+        "cost management"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 17,
+      "speaker": "John L. Stauch",
+      "text": "Yes. We were pretty candid and transparent that we certainly saw in Q4 of last year and Q1 of this year, a little bit of slowing in the order books and the quoting activity. We did see some pickup here in Q2. And in fact, we have booked orders as we head into Q3 and Q4 and feel pretty optimistic about some of those longer-cycle businesses.",
+      "chunks": [
+        "PNR_2025Q2_chunk_030"
+      ],
+      "topics": [
+        "CEO Answer on Flow Segment Environment"
+      ],
+      "word_count": 66,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "market conditions"
+      ],
+      "supply_chain_concepts": [
+        "Demand Forecasting"
+      ]
+    },
+    {
+      "segment_id": 18,
+      "speaker": "Julian C.H. Mitchell",
+      "text": "I just wanted to understand a little bit better the moving parts on the sort of op profit or EBITDA guide. So the EBITDA guide unchanged at $1.1 billion or so. You pushed up the revenue guide a point or so. So is the sort of the delta there with the smaller gross tariff headwind and the higher sales guide, but the unchanged EBITDA guide, is the main moving parts sort of weaker volumes at Pool and then some small effect on the divestment earnings?",
+      "chunks": [
+        "PNR_2025Q2_chunk_031"
+      ],
+      "topics": [
+        "Analyst Question on Water Solutions Performance"
+      ],
+      "word_count": 85,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "market conditions",
+        "cost management"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 19,
+      "speaker": "Robert P. Fishman",
+      "text": "Not really. In fact, you've got rounding. As income goes up, EBITDA will go up. So if you think about the raise in our guide of, call it, $0.07, I think about roughly $0.05 is the business, so the income piece. So call that $10 million, and the rest is below the line because of the strength of our free cash flow in Q2, we're getting about $0.02 because of lower interest expense.",
+      "chunks": [
+        "PNR_2025Q2_chunk_032"
+      ],
+      "topics": [
+        "CFO Answer on EBITDA Guide"
+      ],
+      "word_count": 73,
+      "key_metrics": [
+        "Raise in guide $0.07",
+        "EBITDA guide $1.1 billion"
+      ],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "cost management"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 20,
+      "speaker": "Julian C.H. Mitchell",
+      "text": "And then just to hone in a little bit on the Water Solutions segment. I don't think that's come up much yet. So maybe help us understand, I think first half organic sales were down low single digits. The year is guided flattish core. So help us understand the confidence in that acceleration in the back half in Water.",
+      "chunks": [
+        "PNR_2025Q2_chunk_033"
+      ],
+      "topics": [
+        "Analyst Question on Water Solutions Segment"
+      ],
+      "word_count": 59,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 21,
+      "speaker": "Robert P. Fishman",
+      "text": "Regarding the performance comparison of the first half to the second half, I\u2019ll start with the residential segment. We have been undertaking a lot of portfolio rationalization, and we anticipate one more quarter of this in Q3 before the residential business begins to stabilize.",
+      "chunks": [
+        "PNR_2025Q2_chunk_034"
+      ],
+      "topics": [
+        "CFO Answer on Water Solutions Segment"
+      ],
+      "word_count": 44,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "market conditions",
+        "operational efficiency"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 22,
+      "speaker": "Bryan Francis Blair",
+      "text": "Could you provide more insight on the decision to divest KBI? We understood from the beginning that it was a lower margin asset. Did the Return on Sales significantly decline compared to when you acquired the business?",
+      "chunks": [
+        "PNR_2025Q2_chunk_035"
+      ],
+      "topics": [
+        "Analyst Question on KBI Divestment"
+      ],
+      "word_count": 37,
+      "key_metrics": [],
+      "matched_terms": [
+        {
+          "term_id": "01b68a4b-a072-432c-9ae9-b99c0e8bef75",
+          "term": "business intelligence",
+          "score": 0.5019999742507935
+        }
+      ],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 23,
+      "speaker": "John L. Stauch",
+      "text": "We acquired a services company, expecting it to support our water replacement initiatives, such as addressing challenges with Everpure cartridges, and assist with a frozen carbonated beverage restructuring for a key hamburger customer. We discovered that we operated in many low-density routes in rural areas. Despite having a solid market presence for our water changeouts, we struggled to grow.",
+      "chunks": [
+        "PNR_2025Q2_chunk_036"
+      ],
+      "topics": [
+        "CEO Answer on KBI Divestment"
+      ],
+      "word_count": 59,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "customer service",
+        "market expansion",
+        "operational efficiency"
+      ],
+      "supply_chain_concepts": [
+        "Service Integration",
+        "Market Penetration"
+      ]
+    },
+    {
+      "segment_id": 24,
+      "speaker": "Bryan Francis Blair",
+      "text": "Okay. That makes a lot of sense. I appreciate the detail. And sticking with Water Solutions, you've offered your take on commercial and residential dynamics and outlook. Perhaps do the same with U.S. versus international business.",
+      "chunks": [
+        "PNR_2025Q2_chunk_037"
+      ],
+      "topics": [
+        "Analyst Question on U.S. vs International Dynamics"
+      ],
+      "word_count": 36,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 25,
+      "speaker": "John L. Stauch",
+      "text": "Yes. I mean I think the amount of rationalization in residential water treatment reflects its global footprint, strong large footprint in Europe and a pretty big one in China as well. So we're making sure we're well positioned longer term and making sure that we're in the higher end of the markets.",
+      "chunks": [
+        "PNR_2025Q2_chunk_038"
+      ],
+      "topics": [
+        "CEO Answer on U.S. vs International Dynamics"
+      ],
+      "word_count": 52,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "operational efficiency",
+        "market expansion"
+      ],
+      "supply_chain_concepts": [
+        "Market Positioning",
+        "Global Footprint"
+      ]
+    },
+    {
+      "segment_id": 26,
+      "speaker": "Brett Logan Linzey",
+      "text": "Congrats on the quarter. I wanted to come back to tariffs. I appreciate all the details. So you're dialing in the $60 million full year, $140 million previously. Obviously, a lot of moving pieces. It doesn't look like you're flowing through the full tailwind. I guess does the framework contemplate some potential softening developing in the second half and it's more of a hedge? Or are you actually marking to market what's a lower exit run rate?",
+      "chunks": [
+        "PNR_2025Q2_chunk_039"
+      ],
+      "topics": [
+        "Analyst Question on Tariff Details"
+      ],
+      "word_count": 77,
+      "key_metrics": [],
+      "matched_terms": [
+        {
+          "term_id": "579f839b-5dd5-4b18-be4a-f34783c29c1e",
+          "term": "tariff",
+          "score": 0.6010000109672546
+        }
+      ],
+      "negotiable_issues": [
+        {
+          "negotiable_issue_number": "73",
+          "negotiable_issue_text": "Tariffs",
+          "score": 0.5640000104904175
+        }
+      ],
+      "business_themes": [
+        "market conditions",
+        "cost management"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 27,
+      "speaker": "Robert P. Fishman",
+      "text": "Yes. Just to go over the math, the full year expected this year is $75 million versus the $140 million. So if you think about that's a $65 million benefit, then we talked about $50 million less price. So the net benefit is around $15 million.",
+      "chunks": [
+        "PNR_2025Q2_chunk_040"
+      ],
+      "topics": [
+        "CFO Answer on Tariff Details"
+      ],
+      "word_count": 46,
+      "key_metrics": [
+        "Benefit $65 million",
+        "Full year tariff impact $75 million"
+      ],
+      "matched_terms": [
+        {
+          "term_id": "579f839b-5dd5-4b18-be4a-f34783c29c1e",
+          "term": "tariff",
+          "score": 0.5789999961853027
+        }
+      ],
+      "negotiable_issues": [
+        {
+          "negotiable_issue_number": "73",
+          "negotiable_issue_text": "Tariffs",
+          "score": 0.5540000200271606
+        }
+      ],
+      "business_themes": [
+        "financial performance",
+        "cost management"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 28,
+      "speaker": "Andrew Jon Krill",
+      "text": "Just wanted to ask on the topic of tariffs again. Just any observations of prebuying, like to the extent you can measure that. It didn't seem obvious, but I wanted to check. And I guess, therefore, if there could be any form of an air pocket in the third quarter. So any color there would be helpful.",
+      "chunks": [
+        "PNR_2025Q2_chunk_041"
+      ],
+      "topics": [
+        "Analyst Question on Transformation Savings"
+      ],
+      "word_count": 57,
+      "key_metrics": [],
+      "matched_terms": [
+        {
+          "term_id": "579f839b-5dd5-4b18-be4a-f34783c29c1e",
+          "term": "tariff",
+          "score": 0.527999997138977
+        }
+      ],
+      "negotiable_issues": [
+        {
+          "negotiable_issue_number": "73",
+          "negotiable_issue_text": "Tariffs",
+          "score": 0.5139999985694885
+        }
+      ],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 29,
+      "speaker": "John L. Stauch",
+      "text": "Yes. I think we saw definitely in Q1, mitigating strategies that would include bringing in what you could. And we were very transparent on the benefit that we had created regarding that. I think Q2, both in the cash flow of us and probably as an industry is indicative of the fact that a lot of us collected on what we did in Q1 and Q2.",
+      "chunks": [
+        "PNR_2025Q2_chunk_042"
+      ],
+      "topics": [
+        "CEO Answer on Transformation Savings"
+      ],
+      "word_count": 66,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "cost management",
+        "operational efficiency"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 30,
+      "speaker": "Deane Michael Dray",
+      "text": "I want to revisit the divestiture of the commercial services. John, you provided a clear response to Brian's question regarding the rationale. I understand the decision to exit given the fixed contracts in this environment. However, I am curious whether this will affect your ability to sell replacements, cartridges, and the like since you no longer have a captive service. Has this concern been considered?",
+      "chunks": [
+        "PNR_2025Q2_chunk_043"
+      ],
+      "topics": [
+        "Analyst Question on Cash Flow"
+      ],
+      "word_count": 65,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 31,
+      "speaker": "John L. Stauch",
+      "text": "No, I don't believe so, Deane. I think we built really good relationships primarily through the distribution channels and the synergies of Manitowoc and Everpure. And as a reminder, we go out with Everpure as its own brand and Manitowoc with its own brand.",
+      "chunks": [
+        "PNR_2025Q2_chunk_044"
+      ],
+      "topics": [
+        "CEO Answer on Cash Flow"
+      ],
+      "word_count": 44,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "market expansion",
+        "operational efficiency"
+      ],
+      "supply_chain_concepts": [
+        "Supplier Collaboration"
+      ]
+    },
+    {
+      "segment_id": 32,
+      "speaker": "Deane Michael Dray",
+      "text": "Great. Are there any other divestitures being considered in the near future? And a quick question for Bob. This is an outstanding quarter for free cash flow conversion, nearly 260%. How did it turn out compared to your expectations? Was there less working capital or CapEx? Please share some of your observations.",
+      "chunks": [
+        "PNR_2025Q2_chunk_045"
+      ],
+      "topics": [
+        "Analyst Question on Future Divestitures"
+      ],
+      "word_count": 52,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "working capital management",
+        "cost management"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 33,
+      "speaker": "John L. Stauch",
+      "text": "When we consider divestitures, we focus on product line exits. We assess factors like whether the product is part of a shared factory, if it has its own dedicated infrastructure, the implications of ERP and digital transitions, and the overall cost-benefit analysis.",
+      "chunks": [
+        "PNR_2025Q2_chunk_046"
+      ],
+      "topics": [
+        "CEO Answer on Future Divestitures"
+      ],
+      "word_count": 42,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "cost management",
+        "operational efficiency"
+      ],
+      "supply_chain_concepts": [
+        "Divestiture Strategy",
+        "Cost-Benefit Analysis"
+      ]
+    },
+    {
+      "segment_id": 34,
+      "speaker": "Robert P. Fishman",
+      "text": "I would say on cash flow, it certainly helps with having a record quarter for sales and income. That's the starting point for us. And then we've been very focused over the last couple of years on improving DSO and days inventory on hand.",
+      "chunks": [
+        "PNR_2025Q2_chunk_047"
+      ],
+      "topics": [
+        "CFO Answer on Cash Flow"
+      ],
+      "word_count": 44,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "working capital management",
+        "revenue growth",
+        "operational efficiency"
+      ],
+      "supply_chain_concepts": [
+        "Inventory Turnover",
+        "Days Sales Outstanding (DSO)"
+      ]
+    },
+    {
+      "segment_id": 35,
+      "speaker": "Andrew Edouard Buscaglia",
+      "text": "Okay. Okay. Maybe just one last one on your previous distributor comments. Certainly, at some point, they're going to feel the pinch as well with pricing. So I'm wondering, first off, price realization sounds like it came in around where you expected. And then I guess, going forward, how does that dynamic work when we look out to 2026 with distributors' ability to keep taking price?",
+      "chunks": [
+        "PNR_2025Q2_chunk_048"
+      ],
+      "topics": [
+        "Analyst Question on Distributor Pricing"
+      ],
+      "word_count": 66,
+      "key_metrics": [],
+      "matched_terms": [
+        {
+          "term_id": "8bd7e76d-a302-4e6e-98e1-24b1c5bc060e",
+          "term": "distributor",
+          "score": 0.5180000066757202
+        }
+      ],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "market conditions"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 36,
+      "speaker": "John L. Stauch",
+      "text": "Well, as part of 80/20, we have done a lot of customer simplification of who we ship to. So we ship primarily to our top distributors now and only to our top distributors. It really is about making sure we're aligning the dealer incentives to move the product through that's beneficial to us and the channel and the end, right?",
+      "chunks": [
+        "PNR_2025Q2_chunk_049"
+      ],
+      "topics": [
+        "CEO Answer on Distributor Pricing"
+      ],
+      "word_count": 60,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [
+        {
+          "negotiable_issue_number": "34",
+          "negotiable_issue_text": "Part Rationalization",
+          "score": 0.5070000290870667
+        }
+      ],
+      "business_themes": [
+        "supply chain optimization",
+        "operational efficiency"
+      ],
+      "supply_chain_concepts": [
+        "Channel Alignment",
+        "Supplier Segmentation"
+      ]
+    },
+    {
+      "segment_id": 37,
+      "speaker": "Saree Emily Boroditsky",
+      "text": "Maybe just another one on pool. I think you mentioned the potential for sluggish volumes in 2026. But maybe just talk about how you're thinking about replacement demand from the bulk of equipment that was put in during the COVID years. And when does that start to show up in volume?",
+      "chunks": [
+        "PNR_2025Q2_chunk_050"
+      ],
+      "topics": [
+        "Analyst Question on Pool Replacement Demand"
+      ],
+      "word_count": 51,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 38,
+      "speaker": "John L. Stauch",
+      "text": "Yes. So just to clarify, I didn't say sluggish. I meant that we haven't seen significant volume recovery yet. We had expected it, but I'm uncertain if it will materialize in the second half of the year or what the situation will be in 2026.",
+      "chunks": [
+        "PNR_2025Q2_chunk_051"
+      ],
+      "topics": [
+        "CEO Answer on Pool Replacement Demand"
+      ],
+      "word_count": 45,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "market conditions"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 39,
+      "speaker": "Saree Emily Boroditsky",
+      "text": "Okay. And then maybe just one on price. You talked about pool demand being impacted by all the price increases. Just how you're thinking about pricing over the next several years. Does pricing slow down at some point? Is it just discounts? Or can you introduce more entry-level equipment just to make pools more affordable to more people?",
+      "chunks": [
+        "PNR_2025Q2_chunk_052"
+      ],
+      "topics": [
+        "Analyst Question on Pricing Strategy"
+      ],
+      "word_count": 58,
+      "key_metrics": [],
+      "matched_terms": [
+        {
+          "term_id": "f8a4dc9d-d2d7-4b88-b6f2-93416030255d",
+          "term": "price discrimination",
+          "score": 0.503000020980835
+        }
+      ],
+      "negotiable_issues": [],
+      "business_themes": [
+        "customer service",
+        "revenue growth",
+        "market conditions"
+      ],
+      "supply_chain_concepts": []
+    },
+    {
+      "segment_id": 40,
+      "speaker": "John L. Stauch",
+      "text": "I think our value proposition is always be working the higher-end pools and have the technological advancements that the industry wants and needs and make sure we're driving value and content. I do think, though, that price normalization, getting back to that 1% to 2% per year, reflecting general inflation is the hope of every industry so that you can work within the context of driving productivity plans. I want to thank everybody for joining the call today. In closing, I just want to reiterate some key themes on Slide 19. We delivered our 13th consecutive quarter of margin expansion. We drove double-digit adjusted earnings growth, and Pool grew its top line 9% as a result of solid execution and transformation. We increased our 2025 sales and adjusted EPS outlook despite tariff impacts, and we remain confident in our long-term strategy.",
+      "chunks": [
+        "PNR_2025Q2_chunk_053",
+        "PNR_2025Q2_chunk_054"
+      ],
+      "topics": [
+        "CEO Answer on Pricing Strategy",
+        "Closing Remarks"
+      ],
+      "word_count": 141,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [
+        "revenue growth",
+        "margin expansion",
+        "cost management",
+        "market expansion"
+      ],
+      "supply_chain_concepts": [
+        "Margin Expansion",
+        "Sales Forecasting",
+        "Value Proposition",
+        "Pricing Strategy"
+      ]
+    },
+    {
+      "segment_id": 41,
+      "speaker": "Operator",
+      "text": "Ladies and gentlemen, that does conclude today's conference call and presentation. We do thank you for joining. You may now disconnect your lines.",
+      "chunks": [
+        "PNR_2025Q2_chunk_055"
+      ],
+      "topics": [
+        "Operator Closing Remarks"
+      ],
+      "word_count": 23,
+      "key_metrics": [],
+      "matched_terms": [],
+      "negotiable_issues": [],
+      "business_themes": [],
+      "supply_chain_concepts": []
+    }
+  ],
+  "speakers_summary": [
+    {
+      "speaker": "Robert P. Fishman",
+      "segment_count": 7,
+      "word_count": 821
+    },
+    {
+      "speaker": "Julian C.H. Mitchell",
+      "segment_count": 2,
+      "word_count": 144
+    },
+    {
+      "speaker": "Deane Michael Dray",
+      "segment_count": 2,
+      "word_count": 117
+    },
+    {
+      "speaker": "Shelly Hubbard",
+      "segment_count": 1,
+      "word_count": 164
+    },
+    {
+      "speaker": "Nathan Hardie Jones",
+      "segment_count": 1,
+      "word_count": 69
+    },
+    {
+      "speaker": "Steve Tusa",
+      "segment_count": 2,
+      "word_count": 92
+    },
+    {
+      "speaker": "Brett Logan Linzey",
+      "segment_count": 1,
+      "word_count": 77
+    },
+    {
+      "speaker": "Bryan Francis Blair",
+      "segment_count": 2,
+      "word_count": 73
+    },
+    {
+      "speaker": "Andrew Alec Kaplowitz",
+      "segment_count": 2,
+      "word_count": 187
+    },
+    {
+      "speaker": "Andrew Jon Krill",
+      "segment_count": 1,
+      "word_count": 57
+    },
+    {
+      "speaker": "Andrew Edouard Buscaglia",
+      "segment_count": 1,
+      "word_count": 66
+    },
+    {
+      "speaker": "Saree Emily Boroditsky",
+      "segment_count": 2,
+      "word_count": 109
+    },
+    {
+      "speaker": "Brian K. Lee",
+      "segment_count": 2,
+      "word_count": 129
+    },
+    {
+      "speaker": "Operator",
+      "segment_count": 1,
+      "word_count": 23
+    },
+    {
+      "speaker": "John L. Stauch",
+      "segment_count": 14,
+      "word_count": 1211
+    }
+  ]
+}
