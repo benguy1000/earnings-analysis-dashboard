@@ -1,12 +1,11 @@
 'use client';
 
 import Link from 'next/link';
-import { usePathname, useRouter } from 'next/navigation';
+import { usePathname } from 'next/navigation';
 import { FileText, MessageSquare, Home } from 'lucide-react';
 
 export default function Navigation() {
   const pathname = usePathname();
-  const router = useRouter();
 
   const links = [
     {

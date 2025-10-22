@@ -60,7 +60,7 @@ export default function OpportunityCard({ opportunity }: OpportunityCardProps) {
                   key={idx}
                   className="bg-gray-50 rounded-lg p-4 border-l-4 border-blue-400"
                 >
-                  <p className="text-gray-700 italic mb-2">"{evidence.statement}"</p>
+                  <p className="text-gray-700 italic mb-2">&ldquo;{evidence.statement}&rdquo;</p>
                   <div className="flex items-center gap-2 text-sm text-gray-600 mb-2">
                     <User size={14} />
                     <span className="font-medium">{evidence.speaker}</span>
