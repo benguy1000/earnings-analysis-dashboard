@@ -29,7 +29,7 @@ export default function LandingPage() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-[#003378] via-[#002959] to-black relative overflow-hidden">
       {/* Animated background elements */}
-      <div className="absolute inset-0 overflow-hidden">
+      <div className="absolute inset-0 overflow-hidden pointer-events-none">
         <div className="absolute -top-40 -right-40 w-80 h-80 bg-blue-500 rounded-full mix-blend-multiply filter blur-xl opacity-10 animate-blob"></div>
         <div className="absolute -bottom-40 -left-40 w-80 h-80 bg-blue-400 rounded-full mix-blend-multiply filter blur-xl opacity-10 animate-blob animation-delay-2000"></div>
         <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-80 h-80 bg-blue-300 rounded-full mix-blend-multiply filter blur-xl opacity-10 animate-blob animation-delay-4000"></div>
@@ -68,7 +68,7 @@ export default function LandingPage() {
         </div>
 
         {/* Main Card */}
-        <div className="max-w-2xl mx-auto">
+        <div className="max-w-2xl mx-auto mb-16">
           <div className="bg-white rounded-3xl shadow-2xl p-8 md:p-10 backdrop-blur-lg border border-gray-100">
             <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-8 text-center">
               Get Started
@@ -87,7 +87,7 @@ export default function LandingPage() {
                   value={localTicker}
                   onChange={(e) => setLocalTicker(e.target.value.toUpperCase())}
                   placeholder="e.g., PNR, AAPL, MSFT"
-                  className="w-full px-6 py-4 border-2 border-gray-200 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary text-lg font-semibold uppercase transition-all hover:border-gray-300"
+                  className="w-full px-6 py-4 border-2 border-gray-200 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary text-lg font-semibold text-gray-900 uppercase transition-all hover:border-gray-300"
                   maxLength={5}
                 />
               </div>
@@ -102,7 +102,7 @@ export default function LandingPage() {
                   <select
                     value={localYear}
                     onChange={(e) => setLocalYear(e.target.value)}
-                    className="w-full px-6 py-4 border-2 border-gray-200 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary text-lg font-semibold transition-all hover:border-gray-300 cursor-pointer"
+                    className="w-full px-6 py-4 border-2 border-gray-200 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary text-lg font-semibold text-gray-900 transition-all hover:border-gray-300 cursor-pointer"
                   >
                     {years.map((y) => (
                       <option key={y} value={y}>
@@ -119,7 +119,7 @@ export default function LandingPage() {
                   <select
                     value={localQuarter}
                     onChange={(e) => setLocalQuarter(e.target.value)}
-                    className="w-full px-6 py-4 border-2 border-gray-200 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary text-lg font-semibold transition-all hover:border-gray-300 cursor-pointer"
+                    className="w-full px-6 py-4 border-2 border-gray-200 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary text-lg font-semibold text-gray-900 transition-all hover:border-gray-300 cursor-pointer"
                   >
                     {quarters.map((q) => (
                       <option key={q} value={q}>
@@ -131,19 +131,19 @@ export default function LandingPage() {
               </div>
             </div>
 
-            {/* Go Button */}
+            {/* Go Button - WITH EXPLICIT WHITE TEXT */}
             <button
               onClick={handleGo}
-              className="w-full py-5 bg-gradient-to-r from-primary to-primary-700 text-white rounded-xl font-bold text-lg hover:shadow-2xl hover:scale-[1.02] transition-all duration-200 flex items-center justify-center gap-3 group"
+              className="w-full py-5 bg-gradient-to-r from-[#003378] to-[#002959] text-white rounded-xl font-bold text-lg hover:shadow-2xl hover:scale-[1.02] transition-all duration-200 flex items-center justify-center gap-3 group shadow-lg"
             >
-              <span>Start Analysis</span>
-              <ArrowRight size={24} className="group-hover:translate-x-1 transition-transform" />
+              <span className="text-white">Start Analysis</span>
+              <ArrowRight size={24} className="text-white group-hover:translate-x-1 transition-transform" />
             </button>
           </div>
         </div>
 
         {/* Features Grid */}
-        <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-6 mt-16">
+        <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-6">
           <div className="bg-white/10 backdrop-blur-md rounded-2xl p-6 border border-white/20 hover:bg-white/20 transition-all">
             <div className="bg-gradient-to-br from-yellow-400 to-orange-500 rounded-xl w-14 h-14 flex items-center justify-center mb-4">
               <Zap className="text-white" size={28} />

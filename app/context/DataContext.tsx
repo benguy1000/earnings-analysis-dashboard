@@ -19,6 +19,7 @@ export function DataProvider({ children }: { children: ReactNode }) {
   const [ticker, setTicker] = useState('');
   const [quarter, setQuarter] = useState('Q2');
   const [year, setYear] = useState('2025');
+  const [initialized, setInitialized] = useState(false);
 
   // Load from localStorage on mount
   useEffect(() => {
@@ -26,17 +27,28 @@ export function DataProvider({ children }: { children: ReactNode }) {
     const savedQuarter = localStorage.getItem('selectedQuarter');
     const savedYear = localStorage.getItem('selectedYear');
 
-    if (savedTicker) setTicker(savedTicker);
+    // Only load if ticker exists in localStorage
+    if (savedTicker && savedTicker !== '') {
+      setTicker(savedTicker);
+    }
     if (savedQuarter) setQuarter(savedQuarter);
     if (savedYear) setYear(savedYear);
+    
+    setInitialized(true);
   }, []);
 
-  // Save to localStorage when changed
+  // Save to localStorage when changed (but only after initialization)
   useEffect(() => {
-    if (ticker) localStorage.setItem('selectedTicker', ticker);
+    if (!initialized) return;
+    
+    if (ticker) {
+      localStorage.setItem('selectedTicker', ticker);
+    } else {
+      localStorage.removeItem('selectedTicker');
+    }
     localStorage.setItem('selectedQuarter', quarter);
     localStorage.setItem('selectedYear', year);
-  }, [ticker, quarter, year]);
+  }, [ticker, quarter, year, initialized]);
 
   const getAnalysisFileName = () => {
     return `${ticker}_${year}${quarter}_analysis.json`;

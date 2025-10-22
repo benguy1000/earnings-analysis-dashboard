@@ -1,6 +1,5 @@
 import { Building2, Calendar, Database } from 'lucide-react';
 import { OpportunityData } from '@/lib/types';
-import { formatDate } from '@/lib/utils';
 
 interface HeaderProps {
   data: OpportunityData;
@@ -29,10 +28,6 @@ export default function Header({ data }: HeaderProps) {
                 <span>{data.source_chunks} source chunks analyzed</span>
               </div>
             </div>
-          </div>
-          <div className="text-right">
-            <p className="text-sm text-blue-200">Analysis Date</p>
-            <p className="font-semibold">{formatDate(data.analysis_date)}</p>
           </div>
         </div>
       </div>
