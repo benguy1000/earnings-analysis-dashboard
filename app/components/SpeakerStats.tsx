@@ -27,7 +27,7 @@ export default function SpeakerStats({ speakers }: SpeakerStatsProps) {
             <div key={speaker.speaker} className="relative">
               <div className="flex items-center justify-between mb-2">
                 <div className="flex items-center gap-2">
-                  <div className="bg-primary-100 text-primary-700 rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm">
+                  <div className="bg-primary/10 text-primary rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm">
                     {idx + 1}
                   </div>
                   <span className="font-semibold text-gray-800">{speaker.speaker}</span>
@@ -43,11 +43,14 @@ export default function SpeakerStats({ speakers }: SpeakerStatsProps) {
                 </div>
               </div>
               
-              {/* Progress Bar */}
-              <div className="w-full bg-gray-200 rounded-full h-2">
+              {/* Progress Bar - FIXED WITH VISIBLE COLORS */}
+              <div className="w-full bg-gray-200 rounded-full h-3 overflow-hidden">
                 <div
-                  className="bg-gradient-to-r from-primary to-primary-600 h-2 rounded-full transition-all"
-                  style={{ width: `${percentage}%` }}
+                  className="h-3 rounded-full transition-all duration-500 ease-out"
+                  style={{ 
+                    width: `${percentage}%`,
+                    background: 'linear-gradient(to right, #003378, #0055CC)'
+                  }}
                 />
               </div>
               <p className="text-xs text-gray-500 mt-1 text-right">{percentage}% of total</p>

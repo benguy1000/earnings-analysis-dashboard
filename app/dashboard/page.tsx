@@ -10,8 +10,8 @@ export default function LandingPage() {
   const { ticker, quarter, year, setTicker, setQuarter, setYear } = useDataContext();
   
   const [localTicker, setLocalTicker] = useState(ticker);
-  const [localQuarter, setLocalQuarter] = useState(quarter);
-  const [localYear, setLocalYear] = useState(year);
+  const [localQuarter, setLocalQuarter] = useState(quarter || 'Q2');
+  const [localYear, setLocalYear] = useState(year || '2025');
 
   const quarters = ['Q1', 'Q2', 'Q3', 'Q4'];
   const years = ['2023', '2024', '2025', '2026'];

@@ -17,8 +17,8 @@ const DataContext = createContext<DataContextType | undefined>(undefined);
 
 export function DataProvider({ children }: { children: ReactNode }) {
   const [ticker, setTicker] = useState('');
-  const [quarter, setQuarter] = useState('Q2');
-  const [year, setYear] = useState('2025');
+  const [quarter, setQuarter] = useState('');
+  const [year, setYear] = useState('');
   const [initialized, setInitialized] = useState(false);
 
   // Load from localStorage on mount
@@ -27,12 +27,16 @@ export function DataProvider({ children }: { children: ReactNode }) {
     const savedQuarter = localStorage.getItem('selectedQuarter');
     const savedYear = localStorage.getItem('selectedYear');
 
-    // Only load if ticker exists in localStorage
+    // Only load if values exist in localStorage
     if (savedTicker && savedTicker !== '') {
       setTicker(savedTicker);
     }
-    if (savedQuarter) setQuarter(savedQuarter);
-    if (savedYear) setYear(savedYear);
+    if (savedQuarter && savedQuarter !== '') {
+      setQuarter(savedQuarter);
+    }
+    if (savedYear && savedYear !== '') {
+      setYear(savedYear);
+    }
     
     setInitialized(true);
   }, []);
@@ -46,8 +50,18 @@ export function DataProvider({ children }: { children: ReactNode }) {
     } else {
       localStorage.removeItem('selectedTicker');
     }
-    localStorage.setItem('selectedQuarter', quarter);
-    localStorage.setItem('selectedYear', year);
+    
+    if (quarter) {
+      localStorage.setItem('selectedQuarter', quarter);
+    } else {
+      localStorage.removeItem('selectedQuarter');
+    }
+    
+    if (year) {
+      localStorage.setItem('selectedYear', year);
+    } else {
+      localStorage.removeItem('selectedYear');
+    }
   }, [ticker, quarter, year, initialized]);
 
   const getAnalysisFileName = () => {
